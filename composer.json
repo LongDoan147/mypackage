@@ -11,25 +11,19 @@
         }
     ],
     "license": "MIT",
-    "require": {
-    },
-    "require-dev": {
-    },
+    "require": {},
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "Longdoan147\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
-        "classmap": [
-
-        ]
+        "classmap": []
     },
-    "scripts": {
-    },
+    "scripts": {},
     "minimum-stability": "dev",
     "config": {
         "preferred-install": "dist"
     }
 }
-© 2022 GitHub, Inc.
