@@ -1,5 +1,5 @@
 {
-    "name": "LongDoan147/mypackage",
+    "name": "longdoan147/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LongDoan147\\Mypackage\\": "src/"
+            "Longdoan147\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
